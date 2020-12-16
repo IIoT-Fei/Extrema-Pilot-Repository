@@ -1,4 +1,4 @@
-;Days after planting;Reference Evapotranspiration;Culture Evapotranspiration;Rainfall;Soil Moisture;Irrigation FAO;Irrigation Fuzzy
+;Days after planting;Reference Evapotranspiration;Crop Evapotranspiration;Rainfall;Soil Moisture;Irrigation FAO;Irrigation Fuzzy
 ;;mm/day;mm/day;mm/day;%/day;mm/day;mm/day
 Date;dap;eto;etc;rf;sm;irr_fao;irr_fuzzy
 01/08/2020;19;3,46869;3,87106;0;25,05;3,63774;8,7
